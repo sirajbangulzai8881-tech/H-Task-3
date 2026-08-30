@@ -1,0 +1,6 @@
+{
+  "name": "Student Study Planner",
+  "description": "A clean, modern, and practical study planner with task priority tracking, course management, visual calendar deadlines, and weekly progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
